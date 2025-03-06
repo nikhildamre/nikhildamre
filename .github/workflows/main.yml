@@ -12,11 +12,17 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v3
 
+      - name: Create output directory
+        run: mkdir -p dist  # Creates the 'dist' folder if it doesn't exist
+
       - name: Generate the contribution snake
         uses: Platane/snk@master
         with:
           github_user_name: nikhildamre
           svg_out_path: dist/github-contribution-grid-snake.svg
+
+      - name: List files in dist
+        run: ls -la dist  # Debugging step to check if the snake was generated
 
       - name: Push the snake animation to the output branch
         uses: crazy-max/ghaction-github-pages@v2
