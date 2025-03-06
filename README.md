@@ -52,7 +52,7 @@ Hi! I'm a passionate **AI/ML Developer, MERN Stack Developer, and UI/UX Designer
 - **📖 Smart LMS Dashboard** – Interactive 3D Learning Map, AI-powered progress tracking.
 - **🛒 E-Commerce Platform** – Scalable MERN stack-based online store with AI recommendations.
 
-[🔗 View More Projects](https://github.com/yourusername?tab=repositories)
+[🔗 View More Projects](https://github.com/nikhildamre?tab=repositories)
 
 ---
 
@@ -67,7 +67,7 @@ Hi! I'm a passionate **AI/ML Developer, MERN Stack Developer, and UI/UX Designer
 > "Code is like humor. When you have to explain it, it’s bad." – Cory House
 
 ### 🐍 Contribution Graph
-![Snake animation](https://github.com/yourusername/yourusername/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/nikhildamre/nikhildamre/blob/output/github-contribution-grid-snake.svg)
 
 
 ✨ *Thanks for stopping by!* 🚀
