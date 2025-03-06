@@ -4,7 +4,7 @@ on:
   schedule:
     - cron: "0 0 * * *"  # Runs every day at midnight UTC
 
-  workflow_dispatch:  # Allows you to manually run this action
+  workflow_dispatch:  # Allows manual run
 
 jobs:
   generate:
@@ -13,7 +13,7 @@ jobs:
       - name: Generate the contribution snake
         uses: Platane/snk@master
         with:
-          github_user_name: yourusername
+          github_user_name: nikhildamre
           outputs: dist/github-contribution-grid-snake.svg
           
       - name: Push the snake animation to the output branch
