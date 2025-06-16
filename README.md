@@ -1,6 +1,6 @@
 # 👋 Hey there! I'm Nikhil  
 
-![Banner](./NikhilDamre.png)
+![Banner](./Nikhil Damre.png)
 
 
 ## 🚀 About Me
