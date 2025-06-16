@@ -1,6 +1,7 @@
 # 👋 Hey there! I'm Nikhil  
 
-![Banner](./Nikhil Damre.png)
+![Banner](./NikhilDamre.png)
+
 
 ## 🚀 About Me
 Hi! I'm a passionate **AI/ML Developer, MERN Stack Developer, and UI/UX Designer** with a knack for building innovative and scalable applications. I love experimenting with new technologies and solving real-world problems. Currently, I'm working on projects related to **LMS, finance management, and AI-powered platforms**.
