@@ -34,7 +34,6 @@ Hi! I'm a passionate **AI/ML Developer, MERN Stack Developer, and UI/UX Designer
 ### 🛠️ Tools & Platforms
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Sanity.io](https://img.shields.io/badge/Sanity.io-FF2D20?style=for-the-badge&logo=sanity&logoColor=white)
 ![Clerk](https://img.shields.io/badge/Clerk-000000?style=for-the-badge&logo=clerk&logoColor=white)
 ![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white)
@@ -56,6 +55,7 @@ Hi! I'm a passionate **AI/ML Developer, MERN Stack Developer, and UI/UX Designer
 [🔗 View More Projects](https://github.com/nikhildamre?tab=repositories)
 
 ---
+
 
 ## 🤝 Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nikhildamre)
