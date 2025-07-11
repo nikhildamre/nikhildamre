@@ -43,6 +43,9 @@ Hi! I'm a passionate **AI/ML Developer, MERN Stack Developer, and UI/UX Designer
 ## 📊 GitHub Stats
 ![Nikhil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nikhildamre&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nikhildamre&layout=compact&theme=radical)
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/nikhildamre10?theme=dark&font=Fira+Code&ext=heatmap&border=0" alt="LeetCode Stats"/>
+</div>
 
 ---
 
