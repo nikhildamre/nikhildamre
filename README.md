@@ -1,75 +1,109 @@
-# 👋 Hey there! I'm Nikhil  
 
-![Banner](./NikhilDamre.png)
-
-
-## 🚀 About Me
-Hi! I'm a passionate **AI/ML Developer, MERN Stack Developer, and UI/UX Designer** with a knack for building innovative and scalable applications. I love experimenting with new technologies and solving real-world problems. Currently, I'm working on projects related to **LMS, finance management, and AI-powered platforms**.
-
-
-### 🎯 My Interests
-- 💻 Full-stack development with **React.js, Next.js, and Node.js**
-- 🧠 Machine Learning & AI
-- 🎨 UI/UX Design & Frontend Creativity
-- 🔐 Cybersecurity & Ethical Hacking
-- 📱 Mobile App Development (Flutter, React Native)
+<!-- Animated Banner -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=F70072&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Nikhil+Damre;AI+%2F+ML+Developer;MERN+Stack+Developer;UI%2FUX+Designer;Cybersecurity+Enthusiast;Turning+Ideas+into+Reality" alt="Typing Animation" />
+</p>
 
 ---
 
-## ⚡ Tech Stack
+## 👨‍💻 About Me
+Hi! I'm **Nikhil Damre**, a passionate **AI/ML Developer, MERN Stack Developer, and UI/UX Designer** with a knack for building innovative and scalable applications. I love experimenting with new technologies and solving real-world problems.
 
-### 💻 Programming & Markup Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-
-### 🔥 Frameworks & Libraries
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=next.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-
-### 🛠️ Tools & Platforms
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Sanity.io](https://img.shields.io/badge/Sanity.io-FF2D20?style=for-the-badge&logo=sanity&logoColor=white)
-![Clerk](https://img.shields.io/badge/Clerk-000000?style=for-the-badge&logo=clerk&logoColor=white)
-![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white)
+- 🌱 Currently working on **LMS, Finance Management, and AI-powered Platforms**
+- 🎯 Interests: AI, Cybersecurity, Full-stack Dev, UI/UX, Mobile Apps
+- 📚 Exploring **Data Science & Cloud Computing**
+- ⚡ Fun Fact: *Code is like humor. When you have to explain it, it’s bad.*
 
 ---
 
-## 📊 GitHub Stats
-![Nikhil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nikhildamre&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nikhildamre&layout=compact&theme=radical)
-<div align="center">
+## 🛠 Tech Arsenal
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,python,cpp,java,c,react,nextjs,nodejs,express,flutter,mongodb,mysql,firebase,tailwind,bootstrap,figma,git,github,vercel,postman,prisma,graphql,aws,gcp,docker,kubernetes,linux" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=nikhildamre&theme=radical&no-frame=true&no-bg=true&margin-w=15&row=1" alt="Trophies"/>
+</p>
+
+---
+
+## 📊 GitHub Stats & Activity
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nikhildamre&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nikhildamre&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nikhildamre&bg_color=141321&color=F70072&line=F70072&point=FFFFFF&area=true&hide_border=true" />
+</p>
+
+---
+
+## 💡 Competitive Programming & DSA
+<p align="center">
   <img src="https://leetcard.jacoblin.cool/nikhildamre10?theme=dark&font=Fira+Code&ext=heatmap&border=0" alt="LeetCode Stats"/>
-</div>
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/codeforces.svg" width="400" alt="Codeforces"/>
+</p>
 
 ---
 
 ## 🚀 Featured Projects
-- **🌱 Revolutionizing Crop Care with AI & AR** – AI-powered disease detection & marketplace for farmers.
-- **💰 Personal Finance Manager** – A professional dynamic financial tracking system built using React.
-- **📖 Smart LMS Dashboard** – Interactive 3D Learning Map, AI-powered progress tracking.
-- **🛒 E-Commerce Platform** – Scalable MERN stack-based online store with AI recommendations.
+
+### 🌱 Revolutionizing Crop Care with AI & AR
+AI-powered disease detection & marketplace for farmers.
+
+![Project Preview](https://github.com/nikhildamre/Vatsalya-Trust/raw/main/assets/demo.gif)
+
+### 💰 Personal Finance Manager
+A professional dynamic financial tracking system built using React.
+
+![Finance Preview](https://github.com/nikhildamre/Welth/raw/main/assets/demo.gif)
+
+### 📖 Smart LMS Dashboard
+Interactive 3D Learning Map, AI-powered progress tracking.
+
+![LMS Preview](https://github.com/nikhildamre/LMS/raw/main/assets/demo.gif)
+
+### 📰 AI Article Summarizer
+Web app for generating concise summaries from article URLs.
+
+![Summarizer Preview](https://github.com/nikhildamre/AI-Summarizer/raw/main/assets/demo.gif)
+
+### 🛒 E-Commerce Platform
+Scalable MERN stack-based online store with AI recommendations.
+
+![Ecom Preview](https://github.com/nikhildamre/Ecommerce/raw/main/assets/demo.gif)
 
 [🔗 View More Projects](https://github.com/nikhildamre?tab=repositories)
 
 ---
 
+## 🐍 Fun Animations
+<p align="center">
+  <img src="https://github.com/nikhildamre/nikhildamre/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Alternate Snake" />
+</p>
+
+---
+
+## 🌐 Visitor Counter & Badges
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=nikhildamre&style=for-the-badge&color=blueviolet" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/nikhildamre?label=Followers&style=for-the-badge&color=blue" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/nikhildamre?label=Stars&style=for-the-badge&color=yellow" alt="Stars" />
+</p>
+
+---
 
 ## 🤝 Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nikhildamre)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/nikhil_damre)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nikhil_damre/)
+<p align="center">
+  <a href="https://linkedin.com/in/nikhildamre"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://x.com/nikhil_damre"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="https://www.instagram.com/nikhil_damre/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="mailto:nikhildamre17@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
 ---
 
-## 🏆 Fun Fact
-> "Code is like humor. When you have to explain it, it’s bad." – Cory House
-
----
-
-✨ *Thanks for stopping by!* 🚀
+✨ *Thanks for stopping by! Drop a ⭐ on a repo if you like my work!* 🚀
+```
