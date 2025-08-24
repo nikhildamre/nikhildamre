@@ -21,9 +21,7 @@ Hi! I'm **Nikhil Damre**, a passionate **AI/ML Developer, MERN Stack Developer, 
   <img src="https://skillicons.dev/icons?i=js,ts,python,cpp,java,c,react,nextjs,nodejs,express,flutter,mongodb,mysql,firebase,tailwind,bootstrap,figma,git,github,vercel,postman,prisma,graphql,aws,gcp,docker,kubernetes,linux" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nikhildamre&theme=radical&no-frame=true&no-bg=true&margin-w=15&row=1" alt="Trophies"/>
-</p>
+
 
 ---
 
@@ -39,7 +37,6 @@ Hi! I'm **Nikhil Damre**, a passionate **AI/ML Developer, MERN Stack Developer, 
 ## 💡 Competitive Programming & DSA
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/nikhildamre10?theme=dark&font=Fira+Code&ext=heatmap&border=0" alt="LeetCode Stats"/>
-  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/codeforces.svg" width="400" alt="Codeforces"/>
 </p>
 
 ---
@@ -76,9 +73,7 @@ Scalable MERN stack-based online store with AI recommendations.
 ---
 
 ## 🐍 Fun Animations
-<p align="center">
-  <img src="https://github.com/nikhildamre/nikhildamre/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
+
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Alternate Snake" />
