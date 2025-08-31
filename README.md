@@ -33,6 +33,9 @@ Hi! I'm **Nikhil Damre**, a passionate **AI/ML Developer, MERN Stack Developer, 
 </p>
 
 ---
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=nikhildamre&theme=maroongold&no-frame=false&no-bg=false&margin-w=4)
+---
 
 ## 💡 Competitive Programming & DSA
 <p align="center">
